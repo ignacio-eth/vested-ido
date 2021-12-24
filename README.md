@@ -1,1 +1,1 @@
-# vestedido-contract
+Artemis vested IDO contract
